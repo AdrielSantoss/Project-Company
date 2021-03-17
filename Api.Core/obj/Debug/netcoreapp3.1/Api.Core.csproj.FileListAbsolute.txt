@@ -1,0 +1,9 @@
+C:\Users\PC\Desktop\Project\Api.Core\bin\Debug\netcoreapp3.1\Api.Core.deps.json
+C:\Users\PC\Desktop\Project\Api.Core\bin\Debug\netcoreapp3.1\Api.Core.dll
+C:\Users\PC\Desktop\Project\Api.Core\bin\Debug\netcoreapp3.1\Api.Core.pdb
+C:\Users\PC\Desktop\Project\Api.Core\obj\Debug\netcoreapp3.1\Api.Core.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\Project\Api.Core\obj\Debug\netcoreapp3.1\Api.Core.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Project\Api.Core\obj\Debug\netcoreapp3.1\Api.Core.AssemblyInfo.cs
+C:\Users\PC\Desktop\Project\Api.Core\obj\Debug\netcoreapp3.1\Api.Core.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Project\Api.Core\obj\Debug\netcoreapp3.1\Api.Core.dll
+C:\Users\PC\Desktop\Project\Api.Core\obj\Debug\netcoreapp3.1\Api.Core.pdb

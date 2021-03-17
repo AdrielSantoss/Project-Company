@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Project\API.DB\bin\Debug\netcoreapp3.1\Api.DB.deps.json
+C:\Users\PC\Desktop\Project\API.DB\bin\Debug\netcoreapp3.1\Api.DB.runtimeconfig.json
+C:\Users\PC\Desktop\Project\API.DB\bin\Debug\netcoreapp3.1\Api.DB.runtimeconfig.dev.json
+C:\Users\PC\Desktop\Project\API.DB\bin\Debug\netcoreapp3.1\Api.DB.dll
+C:\Users\PC\Desktop\Project\API.DB\bin\Debug\netcoreapp3.1\Api.DB.pdb
+C:\Users\PC\Desktop\Project\API.DB\obj\Debug\netcoreapp3.1\Api.DB.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\Project\API.DB\obj\Debug\netcoreapp3.1\Api.DB.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Project\API.DB\obj\Debug\netcoreapp3.1\Api.DB.AssemblyInfo.cs
+C:\Users\PC\Desktop\Project\API.DB\obj\Debug\netcoreapp3.1\Api.DB.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Project\API.DB\obj\Debug\netcoreapp3.1\Api.DB.dll
+C:\Users\PC\Desktop\Project\API.DB\obj\Debug\netcoreapp3.1\Api.DB.pdb
+C:\Users\PC\Desktop\Project\API.DB\obj\Debug\netcoreapp3.1\Api.DB.genruntimeconfig.cache
+C:\Users\PC\Desktop\Project\API.DB\bin\Debug\netcoreapp3.1\Api.Core.dll
+C:\Users\PC\Desktop\Project\API.DB\bin\Debug\netcoreapp3.1\Api.Core.pdb
+C:\Users\PC\Desktop\Project\API.DB\obj\Debug\netcoreapp3.1\Api.DB.csproj.CopyComplete
