@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 namespace Api.Controllers
 {
     [ApiController]
-    [Route("[controller]")]
+    [Route("api/[controller]")]
     public class UserController : ControllerBase    
     {
         private UserRepository _userRepository;
@@ -29,7 +29,7 @@ namespace Api.Controllers
         [HttpPost]
         public async Task<IActionResult> Create([FromBody] UserDto user)
         {
-            await _userRepository.CreateUser(user.Name, user.Email, user.Senha);
+            await _userRepository.CreateUser(user.Name, user.Email, user.Password);
             return Ok();
         }
     }

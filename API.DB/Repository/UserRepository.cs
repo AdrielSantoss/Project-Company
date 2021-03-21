@@ -18,25 +18,25 @@ namespace Api.DB.Repository
             _db = db;
         }
 
-        public async Task<User> CreateUser(string nome, string email, string senha)
+        public async Task<User> CreateUser(string name, string email, string password)
         {
             var existngUser = await _db.Users.FirstOrDefaultAsync(user => user.Email == email);
             if (existngUser != null)
             {
                 throw new ConflictException("Este E-mail já está cadastrado.");
             }
-
+            
             var newUser = new User
             {
-                Email = nome,
-                Name = email,
-                Senha = PasswordHasher.Hash(senha)
+                Email = email,
+                Name = name,
+                Senha = PasswordHasher.Hash(password)
             };
 
             await _db.Users.AddAsync(newUser);
             await _db.SaveChangesAsync();
 
             return newUser;
-        }
+        } 
     }
 }
